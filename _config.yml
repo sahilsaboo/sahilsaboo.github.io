@@ -2,7 +2,7 @@
 title: Sahil
 subtitle: Saboo
 email: sahilsaboo98@gmail.com
-description: A passionate product manager, oxford comma enthusiast, and lifelong learner. </br> This is my personal space where I share my thoughts, musings, book reviews, and more.
+description: A passionate product manager, lifelong learner, and oxford comma enthusiast. </br> This is my personal space where I share my thoughts, musings, book reviews, and more.
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://sahilsaboo.github.io/" # the base hostname & protocol for your site
 author: Sahil Saboo
@@ -26,8 +26,9 @@ socials:
   GitLab:
   Instagram: https://www.instagram.com/sahilsaboo/
   LinkedIn: https://www.linkedin.com/in/sahil-saboo/
-  Twitter: https://twitter.com/sahilsaboo
+  Twitter: https://x.com/sahilsaboo
   Facebook:
+  email: mailto:sahilsaboo98@gmail.com
   Slack:
 
 # build settings
