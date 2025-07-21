@@ -9,4 +9,9 @@ author: null
 show_tile: true
 ---
 
-<h1>Musings</h1>
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Musings</h1>
+		</header>
